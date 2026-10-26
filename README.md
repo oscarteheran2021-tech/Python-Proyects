@@ -5,4 +5,4 @@ Identify the sections: The different code blocks within the file are clearly sep
 
 Enable the code: By default, some snippets might be commented out. You need to remove the comment blocks (#) or isolate the specific block you want to test.
 
-Run it: Save your changes in your code editor and run the script in your terminal (python filename.py). Another thing worth mentioning is that the two documents in the repository are the same.
+Run it: Save your changes in your code editor and run the script in your terminal (python filename.py). Another thing worth mentioning is that the three documents in the repository are the same.
